@@ -1,3 +1,3 @@
-# commclassroomOP
+commclassroomOP
 
-- Kunal Kushwaha says that this learing github amazing..
+- This Git and GitHub tutorial is amazing..
